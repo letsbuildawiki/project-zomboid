@@ -1,0 +1,7 @@
+[project]
+pretty_name = "Project Zomboid"
+repo_name = "project-zomboid"
+
+[[project.folders]]
+label = "Dedicated Server"
+directory = "dedicated-server"
